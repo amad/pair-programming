@@ -1,4 +1,4 @@
-# 1 - Getting Started
+# Getting Started
 
 ## Expert and Novice
 
@@ -12,7 +12,7 @@ Assume two relative levels of expertise on the task. The expert has more knowled
 
 Formally, The driver has control and writes code and navigator reviews and gives suggestions. They switch role and have different responsibilities.
 
-## STICK TO THE BASICS
+## Stick to the basics
 
 Pair programming often confused with helping, collaboration and teamwork. It is easy to do it wrong (ineffective) by not following the basic rules. Please stick to the basic rules and implement it correctly. Drop your questions if you don't understand why.
 

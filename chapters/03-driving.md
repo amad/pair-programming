@@ -2,7 +2,7 @@
 
 Start driving, work for 30 minutes without distraction, switch your role with the navigator. Navigate for another 30 minutes without distraction, take a break. Repeat.
 
-## How long I drive?
+## How long I drive
 
 Driver role must turn every 30 minutes. You can not change turn only because you know that part of code better than the current driver. As a navigator, you always talk to the driver about what is in your head. If the driver fails to understand what you want, you could ask to take control, but only temporary. That does not mean switching control.
 
