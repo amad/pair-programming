@@ -1,4 +1,4 @@
-# Driving
+# Driving and Navigating
 
 Start driving, work for 30 minutes without distraction, switch your role with the navigator. Navigate for another 30 minutes without distraction, take a break. Repeat.
 
@@ -26,8 +26,8 @@ Same as taking control, you always ask for switching driver. As driver or naviga
 
 Repeat these two steps:
 
-1. Start pair programming and after a two-time switch, take a short break (5 minutes)
-2. Start working again and after another two-time switch, take a long break (15 minutes)
+1.  Start pair programming and after a two-time switch, take a short break (5 minutes)
+2.  Start working again and after another two-time switch, take a long break (15 minutes)
 
 These steps designed to make sure it’ll move both pairs between focused and diffuse modes.
 
@@ -57,3 +57,9 @@ As a driver, while pairing, You are in pair programming profile, and it is a sha
 You postpone other stuff, and you do not review unrelated work or pull requests.
 
 As a navigator, while pairing, You should not play with your phone, even if the driver is doing routine work.
+
+## Navigating
+
+As the role suggests, the navigator is the brain to review, find issues, and help to solve problems. Possibly because you are not spending some of your brain's capacity into typing and controlling, you do a better job at verifying and giving direction or finding solutions.
+
+Keep your focus into code. If the driver is doing a poor job and not explaining himself, it is your responsibility to remind him and challenge him by asking questions. Make sure you understand what he/she is doing. Ask for an extra explanation if necessary.
