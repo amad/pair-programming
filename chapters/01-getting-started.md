@@ -1,5 +1,17 @@
 # Getting Started
 
+_“Pair programming is an agile software development technique in which two programmers work together at one workstation. One, the driver, writes code while the other, the observer or navigator, reviews each line of code as it is typed in. The two programmers switch roles frequently.” - Wikipedia_
+
+## Why you need a guideline
+
+Pairs typically consider better design and quality, they are faster to find the solution and solve problems than programmers working alone, and pair programming dramatically improves knowledge sharing on the team.
+
+But it turns out many developers sit together behind one desk trying to make it work which often ends up very inefficient and unproductive way of working that only increases man-hours comparing to working individually.
+
+It is important to understand HOW and WHEN to do pair programming.
+
+Perhaps the pilot and co-pilot workflow is the closest thing you can find to pair-programming out there, and it is very interesting because they also have a guideline for it. Where half of it is to make sure it is efficient and effective, and the other half is to ensure that it works for everybody because there has to be disciplined cooperation to make it work for everyone with different soft skills, personality, and in different environments.
+
 ## Expert and Novice
 
 There are soft rules, and hard rules in this document depending on which variant you are working on: expert-novice, expert-expert, or novice-novice.
